@@ -1,0 +1,5 @@
+Dear {name}, 
+Have a great day!
+
+Love, 
+Ethan
