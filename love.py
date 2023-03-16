@@ -13,7 +13,7 @@ subject = 'UPDATE ME'
 with open('textfile.txt', 'r') as file: #create textfile.txt and paste your email
     content = file.read()
 
-# Define scope & authorize credentials
+# Define scope and authorize credentials
 scope = ['https://www.googleapis.com/auth/spreadsheets']
 creds = Credentials.from_service_account_file('YOUR RELATIVE PATH TO CREDS, UPDATE ME', scopes=scope)
 client = gspread.authorize(creds)
