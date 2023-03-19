@@ -1,13 +1,16 @@
 author: *ebleier4@gmail.com*
+----
 
-`love.py` uses data scraped from googlesheets and sends out emails in `<50` lines! [^1]
+`love.py` is `<50` lines!
 
-> this is an [ENZOS Inactive Wear](https://lovemyenzos.com/) commission project
+* scrape first name and email address from a google sheet
+* for each name and address, send out an original message
+* useful for business marketing
 
-u can check out their shop [here](https://lovemyenzos.com/collections/all)
+> commission project for [ENZOS Inactive Wear](https://lovemyenzos.com/) 
 
+> check out their [shop](https://lovemyenzos.com/collections/all)
 
+> this github repo is outdated
 
-
-
-[^1]: BTW: this code is outdated. For the better code with personalized subjects, please email me and we'll talk
+> email me for updated code
