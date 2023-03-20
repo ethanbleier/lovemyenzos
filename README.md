@@ -1,16 +1,17 @@
+# email sender
 author: *ebleier4@gmail.com*
 ----
 
 `love.py` is `<50` lines!
 
 * scrape first name and email address from a google sheet
-* for each name and address, send out an original message
+* for each name and address, send out an original email
 * useful for business marketing
 
 > commission project for [ENZOS Inactive Wear](https://lovemyenzos.com/) 
 
 > check out their [shop](https://lovemyenzos.com/collections/all)
 
-> this github repo is outdated
+> open source
 
-> email me for updated code
+> email if questions!
